@@ -5,32 +5,32 @@
 1. Create an account [here](https://dynamic.lunanode.com/signup).
 2. Click “Deposit Credit” to pre-fill your account.
    * The best plan to chose is [m.2 under "Memory Optimized"](https://www.lunanode.com/pricing).
-3. Choose a payment method and the amount and click “Add Credit” button.
-4. Add your phone number and “Continue”
-5. Verify your phone by entering 4 digit PIN you received via SMS.
+3. Choose a payment method and the amount and click `Add Credit` button.
+4. Add your phone number and `Continue`.
+5. Verify your phone by entering the 4 digit PIN you received via SMS.
 6. Wait for your invoice confirmation (you will receive a confirmation e-mail).
 
 ### Creating the Virtual Machine
 
 1. Click “Create VM” on the left-hand side menu.
-2. Give your VM a name in the “hostname” field, for example – btcpay.
-3. Click on the “Memory optimized” plans from the tabbed selection
-4. Choose the m.2 plan.
-5. Scroll down, and in the “Image” section, select the operating system for your machine – **Ubuntu 18.04 64-bit.**
+2. Give your VM a name in the `hostname` field, for example – btcpay.
+3. Click on the `Memory optimized` plans from the tabbed selection
+4. Choose the `m.2` plan.
+5. Scroll down, and in the `Image` section, select the operating system for your machine – **Ubuntu 18.04 64-bit.**
 6. Create virtual machine.
 
 ### Add Additional Volume
 
-1. Go to “Volumes” in the dashboard.
-2. Select volume location from the dropdown menu, add name and write **80** in the size field.
+1. Go to `Volumes` in the dashboard.
+2. Select `volume location` from the dropdown menu, add name and write **80** in the size field.
 3. Create volume.
 
 ### **Attach the Additional Volume**
 
-1. In Volumes, scroll down to the “Volume List”.
+1. In `Volumes`, scroll down to the `Volume List`.
 2. Find the volume you previosly created and click on to “Manage”.
-3. When the volume opens, choose “Attach to VM”.
-4. In the pop-up window, choose the virtual machine to which you want to attatch the volume.
+3. When the volume opens, choose `Attach to VM`.
+4. In the pop-up window, choose the virtual machine to which you want to attach the volume.
 5. Attach volume to VM.
 
 ### **Enabling CPU Usage**
@@ -39,10 +39,10 @@
 We need to enable additional CPU usage so that our node can properly sync Bitcoin's blockchain. If you select a better plan than m.2, this might not be necessary.&#x20;
 {% endhint %}
 
-1. Virtual Machines > Find your machine > Manage.
-2. Click on the “CPU” from the tabbed menu
-3. From the first drop down menu “Pay for CPU utilization” – select **YES**.
-4. Click **Update**.
+1. `Virtual Machines > Find your machine > Manage`.
+2. Click on the `CPU` from the tabbed menu.
+3. From the first drop down menu `Pay for CPU utilization` – select **`YES`**.
+4. Click **`Update`**.
 
 ### Create the API Key <a href="#2-create-the-api-key" id="2-create-the-api-key"></a>
 
@@ -53,9 +53,9 @@ We need to enable additional CPU usage so that our node can properly sync Bitcoi
 
 1. Go to [launchbtcpay.lunanode.com](https://launchbtcpay.lunanode.com)
 2. Paste the API Key and API ID created in the previous section and continue.
-3. Use your own domain or automatically-generated one by LunaNode.
+3. Use your own domain or an automatically-generated one by LunaNode.
 4. Customize the web-wizard settings according to your needs.
-5. Click Launch VM.&#x20;
+5. Click `Launch VM`.&#x20;
 6. Wait 6-7 minutes for Virtual Machine deployment.
 
 **If you've used a custom domain:**

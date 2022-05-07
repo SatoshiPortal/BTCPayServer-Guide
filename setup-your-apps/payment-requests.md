@@ -12,11 +12,11 @@ Store owners can also print payment requests (or export invoice data) for record
 
 ### Create a Payment Request <a href="#create-a-payment-request" id="create-a-payment-request"></a>
 
-Click Payment Requests > Create new payment request
+Click `Payment Requests > Create new payment request`.
 
 ![](https://docs.btcpayserver.org/assets/img/CreatePaymentRequest.197d6a11.png)
 
-Provide the Request Name, Amount, Display Denomination, Associated Store, Expiration Time & Description (Optional)
+Provide the Request Name, Amount, Display Denomination, Associated Store, Expiration Time & Description (Optional).
 
 Select the option _Allow payee to create invoices in their own denomination_ if you want to allow partial payments to be made.
 
@@ -24,7 +24,7 @@ Select the option _Allow payee to create invoices in their own denomination_ if 
 Payment requests are store-dependent, which means that each payment request is associated with a store during creation. Be sure to have a wallet connected to your store which the payment request belongs to.
 {% endhint %}
 
-Click Save & View to review your payment request.
+Click `Save & View` to review your payment request.
 
 ![](https://docs.btcpayserver.org/assets/img/NewPaymentRequest.92a9c243.png)
 
@@ -33,7 +33,7 @@ BTCPay creates a URL for the payment request. Share this URL to view your paymen
 {% endhint %}
 
 {% hint style="info" %}
-The status will appear as **Settled** if payment has been received in full. If only partial payment was made, the Amount Due will show the balance due.
+The status will appear as **`Settled`** if the payment has been received in full. If only a partial payment was made, the `Amount Due` will show the balance due.
 {% endhint %}
 
 ### Customize Your Payment Requests <a href="#customize-your-payment-requests" id="customize-your-payment-requests"></a>

@@ -24,7 +24,7 @@
 ## 🔗 Setup Your Apps
 
 * [Overview](setup-your-apps/overview.md)
-* [POS App](setup-your-apps/pos-app.md)
+* [Point of Sale App](setup-your-apps/point-of-sale-app.md)
 * [Crowdfunding App](setup-your-apps/crowdfunding-app.md)
 * [Payment Button](setup-your-apps/payment-button.md)
 * [Payment Requests](setup-your-apps/payment-requests.md)
@@ -34,7 +34,7 @@
 * [Activating Your Lightning Wallet](enabling-lightning/sending-bitcoin-overview.md)
 * [Get Inbound Capacity](enabling-lightning/get-inbound-capacity.md)
 * [Accessing the Lightning Wallet](enabling-lightning/steps-for-receiving-bitcoin-payments.md)
-* [Withdrawing Your Sats](enabling-lightning/steps-for-sending-bitcoin.md)
+* [Withdrawing Your Bitcoins](enabling-lightning/steps-for-sending-bitcoin.md)
 
 ## 🎆 Additional Configurations
 

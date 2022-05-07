@@ -5,7 +5,7 @@ coverY: 0
 
 # Why we recommend BTCPay Server
 
-BTCPay Server is a free and open-source, self-hosted Bitcoin payment processor. There are no third parties and zero additional fees for accepting payments. It allows for small and large merchants alike to accept payments in a secure and censoship-resistant manner in Bitcoin on-chain and Lightning Network payments alike.&#x20;
+BTCPay Server is a free and open-source, self-hosted Bitcoin payment processor. There are no third parties and zero additional fees for accepting payments. It allows for small and large merchants alike to accept payments in a secure and censorship-resistant manner, using either Bitcoin _on-chain_ or the Lightning Network.
 
 You can launch your own server in the cloud, use your own hardware to host it or use an existing hosting service.&#x20;
 
@@ -19,7 +19,7 @@ You can use BTCPay Server in combination with all major Bitcoin wallets to recei
 * ✅ No middlemen and no fees for accepting Bitcoin payments
 * ✅ Customizable shop and checkout experience
 * ✅ Integrations with other major online ecommerce platforms
-* ✅ Takes care of payment refunding and bitcoin managemen
+* ✅ Takes care of payment refunding and bitcoin management
 * ❌ Can require some technical knowledge for setting up
 
 ### What is this all for?

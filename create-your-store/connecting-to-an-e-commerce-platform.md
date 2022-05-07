@@ -1,6 +1,6 @@
 # Connecting to an e-commerce platform
 
-You can easily connect BTCPay to your online store. Currently, BTCPay offers following integrations (click on t platform you are using to obtain instructions) :
+You can easily connect BTCPay to your online store. Currently, BTCPay offers the following integrations (click on the platform you are using to obtain instructions):
 
 * [WooCommerce](https://docs.btcpayserver.org/WooCommerce/)
 * [Shopify](https://docs.btcpayserver.org/Shopify/)

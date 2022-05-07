@@ -12,4 +12,4 @@ Once the hardware in hand, you can then select the service (some offer free vers
 
 Build or buy any one of the above nodes to begin using BTCPay Server on your self-hosted device.
 
-BTCPay Server also provides instructions for setting up your self-hosted server from scratch, but his method is much more technically advanced. [Find it here](https://docs.btcpayserver.org/Deployment/Hardware/).
+BTCPay Server also provides instructions for setting up your self-hosted server from scratch, but this method is much more technically advanced. [Find it here](https://docs.btcpayserver.org/Deployment/Hardware/).

@@ -8,8 +8,8 @@ BTCPay Server offers several tools that make **** bookkeeping easier.
 
 To export the **invoices:**
 
-1. Go to Invoices;
-2. Click on Export invoices
+1. Go to `Invoices`.
+2. Click on `Export invoices`.
 3. Select the export format (CSV/JSON) and download the file.&#x20;
 
 {% hint style="info" %}
@@ -45,4 +45,4 @@ The fields are the following:
 
 ### QuickBooks Online Connector for BTCPay Server <a href="#quickbooks-online-connector-for-btcpay-server" id="quickbooks-online-connector-for-btcpay-server"></a>
 
-**BTCQBO** is a third-party plugin that **enables QuickBooks Online users to connect their BTCPay server** easily. Besides **bookkeeping**, users can quickly **generate invoices from their QuickBooks**. For more information about the BTCQBO and all the features it offers, [check the plugin repository](https://github.com/JeffVandrewJr/btcqbo).
+**BTCQBO** is a third-party plugin that **enables QuickBooks Online users to connect their BTCPay Server** easily. Besides **bookkeeping**, users can quickly **generate invoices from their QuickBooks**. For more information about the BTCQBO and all the features it offers, [check the plugin repository](https://github.com/JeffVandrewJr/btcqbo).

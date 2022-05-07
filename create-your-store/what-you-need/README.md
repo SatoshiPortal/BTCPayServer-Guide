@@ -2,10 +2,10 @@
 
 There are two ways to set up a wallet in BTCPay Server:
 
-* Connect an existing wallet
-* Create a new wallet
+* Connect an existing wallet.
+* Create a new wallet.
 
-There are several options on how to set up a wallet to use with your BTCPay Store. Below you will see instructions on how to set up BlueWallet, Wasabi Wallet and Coldcard.&#x20;
+There are several options on how to set up a wallet to use with your BTCPay Store. Below you will see instructions on how to set up BlueWallet, Wasabi Wallet, and Coldcard.&#x20;
 
 #### Steps:
 
@@ -38,9 +38,9 @@ Click on `Connect an Existing Wallet`.
 
 **In Wasabi:**&#x20;
 
-1. Click on Tools;
-2. Select Wallet Manager; &#x20;
-3. Click on Open Wallets Folder;
+1. Click on `Tools`;
+2. Select `Wallet Manager`; &#x20;
+3. Click on `Open Wallets Folder`;
 4. Import the file on BTCPay Server.
 
 ![](https://lh6.googleusercontent.com/xXo4diId6o9B-tRiIe83dfvInMD8iILWJmdRCXL\_BTckhxTJHC02QkHGGWTlRMVObyIJi2\_fSJTWNpN8-JN6Hwu2nG-WBaTy9fLkJ8VsJDIhMczHiMGJ0KOy57iPWPaanHZLPxBF)
@@ -54,7 +54,7 @@ Click on `Connect an Existing Wallet`.
 **In your Coldcard:**
 
 1. Insert a microSD card in your Coldcard;
-2. Unlock your Coldcard
+2. Unlock your Coldcard;
 3. Go to `Advanced ❯ MicroSD Card ❯ Export Wallet ❯ Electrum Wallet`
 4. Import the file on BTCPay Server.
 
